@@ -1,3 +1,5 @@
 numpy
 ipykernel
 pandas
+matplotlib
+seaborn
